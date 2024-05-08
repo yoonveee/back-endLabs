@@ -1,0 +1,16 @@
+[
+  {
+    "firstName": "firstName-1",
+    "lastName": "lastName-1",
+    "login": "l1",
+    "password": "p1",
+    "token": "a245943b-6878-4c7a-8fe2-563c0251f5d9"
+  },
+  {
+    "firstName": "firstName-1",
+    "lastName": "lastName-1",
+    "login": "login-1",
+    "password": "password-1",
+    "token": "e661e6eb-873f-486e-9cbe-64f18b162418"
+  }
+]
